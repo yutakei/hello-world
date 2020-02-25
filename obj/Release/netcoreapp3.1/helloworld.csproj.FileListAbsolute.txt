@@ -1,0 +1,11 @@
+C:\Users\G722473\takei\hello-world\bin\Release\netcoreapp3.1\helloworld.exe
+C:\Users\G722473\takei\hello-world\bin\Release\netcoreapp3.1\helloworld.deps.json
+C:\Users\G722473\takei\hello-world\bin\Release\netcoreapp3.1\helloworld.runtimeconfig.json
+C:\Users\G722473\takei\hello-world\bin\Release\netcoreapp3.1\helloworld.runtimeconfig.dev.json
+C:\Users\G722473\takei\hello-world\bin\Release\netcoreapp3.1\helloworld.dll
+C:\Users\G722473\takei\hello-world\bin\Release\netcoreapp3.1\helloworld.pdb
+C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.csprojAssemblyReference.cache
+C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.AssemblyInfoInputs.cache
+C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.AssemblyInfo.cs
+C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.dll
+C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.pdb

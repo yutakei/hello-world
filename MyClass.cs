@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         public string ReturnMessage()
         {
-            return "Happy coding!";
+            return "Happy coding! yukie takei :)";
         }
     }
 }

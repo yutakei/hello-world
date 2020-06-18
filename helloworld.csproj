@@ -8,6 +8,34 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\helloworld.deps.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\publish\helloworld.deps.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\publish\helloworld.runtimeconfig.json" />
+    <Content Include="bin\Release\netcoreapp3.1\helloworld.deps.json" />
+    <Content Include="bin\Release\netcoreapp3.1\helloworld.runtimeconfig.dev.json" />
+    <Content Include="bin\Release\netcoreapp3.1\helloworld.runtimeconfig.json" />
+    <Content Include="bin\Release\netcoreapp3.1\publish\helloworld.deps.json" />
+    <Content Include="bin\Release\netcoreapp3.1\publish\helloworld.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\helloworld.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\helloworld.exe" />
+    <None Include="bin\Debug\netcoreapp3.1\helloworld.pdb" />
+    <None Include="bin\Debug\netcoreapp3.1\publish\helloworld.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\publish\helloworld.exe" />
+    <None Include="bin\Debug\netcoreapp3.1\publish\helloworld.pdb" />
+    <None Include="bin\Release\netcoreapp3.1\helloworld.dll" />
+    <None Include="bin\Release\netcoreapp3.1\helloworld.exe" />
+    <None Include="bin\Release\netcoreapp3.1\helloworld.pdb" />
+    <None Include="bin\Release\netcoreapp3.1\publish\helloworld.dll" />
+    <None Include="bin\Release\netcoreapp3.1\publish\helloworld.exe" />
+    <None Include="bin\Release\netcoreapp3.1\publish\helloworld.pdb" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.10" />
   </ItemGroup>
 

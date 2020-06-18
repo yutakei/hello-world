@@ -7,6 +7,16 @@
     <DockerfileContext>.</DockerfileContext>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath></OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="obj\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
+
   <ItemGroup>
     <Content Include="bin\Debug\netcoreapp3.1\helloworld.deps.json" />
     <Content Include="bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.dev.json" />

@@ -8,4 +8,3 @@ C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.Assembly
 C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.AssemblyInfo.cs
 C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.dll
 C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.pdb
-C:\Users\G722473\takei\hello-world\obj\Release\netcoreapp3.1\helloworld.csprojAssemblyReference.cache
